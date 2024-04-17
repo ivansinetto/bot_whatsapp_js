@@ -1,0 +1,35 @@
+2024/04/15-18:21:27.920 e1c Reusing MANIFEST N:\Neto\Repositories\bot_whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/15-18:21:27.926 e1c Recovering log #267
+2024/04/15-18:21:27.966 e1c Reusing old log N:\Neto\Repositories\bot_whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000267.log 
+2024/04/15-18:21:38.448 37c4 Level-0 table #277: started
+2024/04/15-18:21:38.539 37c4 Level-0 table #277: 509601 bytes OK
+2024/04/15-18:21:38.569 37c4 Delete type=0 #267
+2024/04/15-18:21:38.569 2724 Manual compaction at level-0 from '\x00'\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00(\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/15-18:21:40.057 37c4 Compacting 1@1 + 6@2 files
+2024/04/15-18:21:40.342 37c4 Generated table #278@1: 44392 keys, 2225855 bytes
+2024/04/15-18:21:40.504 37c4 Generated table #279@1: 3609 keys, 2160013 bytes
+2024/04/15-18:21:40.660 37c4 Generated table #280@1: 5443 keys, 2160369 bytes
+2024/04/15-18:21:40.856 37c4 Generated table #281@1: 31189 keys, 2247076 bytes
+2024/04/15-18:21:41.055 37c4 Generated table #282@1: 60095 keys, 2203838 bytes
+2024/04/15-18:21:41.267 37c4 Generated table #283@1: 64686 keys, 1417231 bytes
+2024/04/15-18:21:41.267 37c4 Compacted 1@1 + 6@2 files => 12414382 bytes
+2024/04/15-18:21:41.297 37c4 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/04/15-18:21:41.298 37c4 Delete type=2 #269
+2024/04/15-18:21:41.298 37c4 Delete type=2 #270
+2024/04/15-18:21:41.298 37c4 Delete type=2 #271
+2024/04/15-18:21:41.298 37c4 Delete type=2 #272
+2024/04/15-18:21:41.298 37c4 Delete type=2 #273
+2024/04/15-18:21:41.298 37c4 Delete type=2 #274
+2024/04/15-18:21:41.298 37c4 Delete type=2 #277
+2024/04/15-18:22:05.541 37c4 Level-0 table #285: started
+2024/04/15-18:22:05.708 37c4 Level-0 table #285: 1210946 bytes OK
+2024/04/15-18:22:05.742 37c4 Delete type=0 #276
+2024/04/15-18:22:05.934 37c4 Compacting 1@1 + 6@2 files
+2024/04/15-18:22:06.227 37c4 Generated table #286@1: 47835 keys, 2232993 bytes
+2024/04/15-18:22:06.482 37c4 Generated table #287@1: 3632 keys, 2160251 bytes
+2024/04/15-18:22:06.704 37c4 Generated table #288@1: 3584 keys, 2157169 bytes
+2024/04/15-18:22:07.044 37c4 Generated table #289@1: 31586 keys, 2245737 bytes
+2024/04/15-18:22:07.337 37c4 Generated table #290@1: 54971 keys, 2201922 bytes
+2024/04/15-18:22:07.651 37c4 Generated table #291@1: 72620 keys, 1583271 bytes
+2024/04/15-18:22:07.651 37c4 Compacted 1@1 + 6@2 files => 12581343 bytes
+2024/04/15-18:22:07.688 37c4 compacted to: files[ 0 0 6 0 0 0 0 ]

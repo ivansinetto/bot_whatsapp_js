@@ -1,0 +1,23 @@
+2024/04/15-18:17:59.361 37e4 Reusing MANIFEST N:\Neto\Repositories\bot_whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/15-18:17:59.362 37e4 Recovering log #258
+2024/04/15-18:17:59.413 37e4 Reusing old log N:\Neto\Repositories\bot_whatsapp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000258.log 
+2024/04/15-18:18:09.883 28c Level-0 table #268: started
+2024/04/15-18:18:09.993 28c Level-0 table #268: 807616 bytes OK
+2024/04/15-18:18:10.025 28c Delete type=0 #258
+2024/04/15-18:18:10.046 37e4 Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/15-18:18:11.465 28c Compacting 1@1 + 6@2 files
+2024/04/15-18:18:11.697 28c Generated table #269@1: 42873 keys, 2223011 bytes
+2024/04/15-18:18:11.833 28c Generated table #270@1: 3671 keys, 2160188 bytes
+2024/04/15-18:18:11.959 28c Generated table #271@1: 6428 keys, 2162868 bytes
+2024/04/15-18:18:12.107 28c Generated table #272@1: 31930 keys, 2246576 bytes
+2024/04/15-18:18:12.266 28c Generated table #273@1: 61100 keys, 2204258 bytes
+2024/04/15-18:18:12.379 28c Generated table #274@1: 61420 keys, 1347992 bytes
+2024/04/15-18:18:12.379 28c Compacted 1@1 + 6@2 files => 12344893 bytes
+2024/04/15-18:18:12.416 28c compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/04/15-18:18:12.416 28c Delete type=2 #260
+2024/04/15-18:18:12.417 28c Delete type=2 #261
+2024/04/15-18:18:12.417 28c Delete type=2 #262
+2024/04/15-18:18:12.417 28c Delete type=2 #263
+2024/04/15-18:18:12.417 28c Delete type=2 #264
+2024/04/15-18:18:12.417 28c Delete type=2 #265
+2024/04/15-18:18:12.417 28c Delete type=2 #268
