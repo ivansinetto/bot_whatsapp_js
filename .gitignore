@@ -177,3 +177,7 @@ pyrightconfig.json
 
 .vscode/
 *.db
+
+#Esse projeto
+tokens/
+atualizações.md
