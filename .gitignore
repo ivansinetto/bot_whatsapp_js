@@ -179,5 +179,6 @@ pyrightconfig.json
 *.db
 
 #Esse projeto
-tokens/
-atualizações.md
+.tokens/
+.Tokens/
+atualizacoes.md
