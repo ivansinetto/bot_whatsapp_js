@@ -1,7 +1,0 @@
-- [x] Mudar tempo de atendimento para 30 minutos, cada vez que o cliente fala o tempo reseta
-- [x] Colocar o nome do cliente no aguardo do atendimento
-- [x] Colocar o bot para dar respostas apenas 2 minutos após o bot ser ativado
-- [x] Verificar viabilidade de modular o script - CONCLUÍDO - CASO O SCRIPT FIQUE MAIOR
-- [ ] Mensagem 'Ainda está aí' após 15 minutos de inatividade
-- [ ] Se não conectar o whatsapp em 3 minutos, o código reinicia
-- [ ] Checar se o bot encaminha o catálogo
